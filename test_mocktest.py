@@ -1,5 +1,5 @@
 def test_multiply():
-    assert 3 * 2 == 6
+    assert 3 * 2 == 7
 
 
 def test_addition():
